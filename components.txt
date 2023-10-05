@@ -1,0 +1,12 @@
+In addition to the arduino board itself the following components are required for the projects included herein
+You can also use  a simulation software either offline or online
+Led's
+RGB led 
+Jumper wires
+330 Ohm or 220 Ohm resistors
+10K or 5 K Ohm resistor
+Photoresistor
+Toggle switches
+Potentiometer
+Active and passive buzzer 
+
