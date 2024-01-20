@@ -1,6 +1,5 @@
 //Buzzer connected to pin 8
 int buzzPin = 8;
-
 //delay variables for the buzzer
 int dt = 100;
 int dt2 = 80;

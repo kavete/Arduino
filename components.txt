@@ -1,5 +1,5 @@
 In addition to the arduino board itself the following components are required for the projects included herein
-You can also use  a simulation software either offline or online
+You can also use  a simulation software either offline or online. I would recommend TinkerCAD
 Led's
 RGB led 
 Jumper wires
@@ -9,4 +9,5 @@ Photoresistor
 Toggle switches
 Potentiometer
 Active and passive buzzer 
+Tilt switch
 
